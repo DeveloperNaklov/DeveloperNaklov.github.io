@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ehliyet Mobil - Privacy Policy</title>
+    <title>Privacy Policy</title>
     <style>
         * {
             margin: 0;
@@ -61,6 +61,36 @@
             box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
         }
 
+        .app-selector {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+
+        .app-btn {
+            background: white;
+            color: #667eea;
+            border: 2px solid #667eea;
+            padding: 10px 20px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+
+        .app-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(102, 126, 234, 0.3);
+        }
+
+        .app-btn.active {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-color: transparent;
+        }
+
         .last-updated {
             color: #666;
             font-size: 0.9em;
@@ -111,6 +141,14 @@
             text-decoration: underline;
         }
 
+        .content-section {
+            display: none;
+        }
+
+        .content-section.active {
+            display: block;
+        }
+
         @media (max-width: 600px) {
             .container {
                 padding: 20px;
@@ -123,6 +161,11 @@
             h2 {
                 font-size: 1.3em;
             }
+
+            .header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
         }
     </style>
 </head>
@@ -130,13 +173,19 @@
     <div class="container">
         <div class="header">
             <div>
-                <h1 id="title">Ehliyet Mobil – Privacy Policy</h1>
-                <p class="last-updated" id="lastUpdated">Last Updated: December 02, 2025</p>
+                <h1 id="title">Privacy Policy</h1>
+                <p class="last-updated" id="lastUpdated">Last Updated: December 16, 2025</p>
             </div>
             <button class="lang-btn" id="langBtn" onclick="toggleLanguage()">Türkçe</button>
         </div>
 
-        <div id="content-en">
+        <div class="app-selector">
+            <button class="app-btn active" onclick="selectApp('ehliyet')">Ehliyet Mobil</button>
+            <button class="app-btn" onclick="selectApp('habit')">Habit Tracker</button>
+        </div>
+
+        <!-- Ehliyet Mobil - English -->
+        <div id="ehliyet-en" class="content-section active">
             <h2>Introduction</h2>
             <p>Ehliyet Mobil is a mobile application designed to help users prepare for the driving license exam. This Privacy Policy explains how we collect, use, and protect your information in a transparent manner.</p>
 
@@ -195,7 +244,8 @@
             </div>
         </div>
 
-        <div id="content-tr" style="display: none;">
+        <!-- Ehliyet Mobil - Turkish -->
+        <div id="ehliyet-tr" class="content-section">
             <h2>Giriş</h2>
             <p>Ehliyet Mobil, ehliyet sınavına hazırlık için geliştirilmiş bir mobil uygulamadır. Bu Gizlilik Politikası, uygulamanın kişisel verilerinizi nasıl işlediğini şeffaf bir şekilde açıklar.</p>
 
@@ -251,34 +301,148 @@
                 <p>Bu politika, Ehliyet Mobil geliştiricisi tarafından hazırlanmış ve yönetilmektedir.</p>
             </div>
         </div>
+
+        <!-- Habit Tracker - English -->
+        <div id="habit-en" class="content-section">
+            <h2>Introduction</h2>
+            <p>This Privacy Policy explains how our habit tracker app protects the privacy of its users. We take our users' privacy very seriously.</p>
+
+            <h2>Information Collected</h2>
+            <ul>
+                <li>Our app only uses data stored locally on your device to track users' habits. This data (e.g., habits you create, progress, and notes) is never sent to our servers or third parties.</li>
+                <li>We do not collect any personally identifiable information (name, email, location, phone number, etc.).</li>
+                <li>There is no requirement to create an account, log in, or enter any personal data in our app.</li>
+            </ul>
+
+            <h2>Anonymous Usage Statistics</h2>
+            <p>In order to improve the app and enhance the user experience, anonymous usage data (e.g., app open times, screen time, crash reports, etc., general statistics) is automatically collected. This data:</p>
+            <ul>
+                <li>Does not contain any information that would personally identify you.</li>
+                <li>It is used solely by the application developer to fix bugs and improve features.</li>
+                <li>It is processed through a third-party analytics tool and is subject to the privacy policies of those tools.</li>
+            </ul>
+
+            <h2>Data Sharing and Third Parties</h2>
+            <ul>
+                <li>None of the data we collect is shared with, sold, or rented to third parties.</li>
+                <li>We do not use data for advertising, marketing, or other purposes.</li>
+                <li>We will not share your data with anyone except for legal obligations (e.g., court orders).</li>
+            </ul>
+
+            <h2>Data Security</h2>
+            <ul>
+                <li>Your local data is stored only on your device and is completely removed if you delete the application.</li>
+                <li>Anonymous statistics are transmitted securely and protected against unauthorized access.</li>
+            </ul>
+
+            <h2>Children's Privacy</h2>
+            <p>Our application is not intended for children under 13 years of age. We do not knowingly collect data from children.</p>
+
+            <h2>Changes</h2>
+            <p>If we make changes to this Privacy Policy, the updated version will be published in the application or on this page.</p>
+
+            <div class="contact">
+                <h3>Contact</h3>
+                <p>For privacy-related questions or suggestions:<br>
+                E-mail: <a href="mailto:v.tastemir@protonmail.com">v.tastemir@protonmail.com</a></p>
+                <p>Thank you for using our application!</p>
+            </div>
+        </div>
+
+        <!-- Habit Tracker - Turkish -->
+        <div id="habit-tr" class="content-section">
+            <h2>Giriş</h2>
+            <p>Bu Gizlilik Politikası, habit tracker uygulamamızın kullanıcılarının gizliliğini nasıl koruduğunu açıklamaktadır. Biz, kullanıcılarımızın gizliliğine büyük önem veriyoruz.</p>
+
+            <h2>Toplanan Bilgiler</h2>
+            <ul>
+                <li>Uygulamamız, kullanıcıların alışkanlıklarını takip etmek için yalnızca cihazınızda yerel olarak saklanan verileri kullanır. Bu veriler (örneğin, oluşturduğunuz alışkanlıklar, ilerlemeler ve notlar) hiçbir şekilde sunucularımıza veya üçüncü taraflara gönderilmez.</li>
+                <li>Kişisel olarak tanımlayıcı hiçbir bilgi (ad, e-posta, konum, telefon numarası vb.) toplamıyoruz.</li>
+                <li>Uygulamamızda hesap oluşturma, giriş yapma veya herhangi bir kişisel veri girişi zorunluluğu yoktur.</li>
+            </ul>
+
+            <h2>Anonim Kullanım İstatistikleri</h2>
+            <p>Uygulamayı daha iyi hale getirmek ve kullanım deneyimini iyileştirmek amacıyla, anonim kullanım verileri (örneğin, uygulama açılış sayıları, ekran görüntülenme süreleri, çökme raporları gibi genel istatistikler) otomatik olarak toplanır. Bu veriler:</p>
+            <ul>
+                <li>Kişisel olarak sizi tanımlayacak hiçbir bilgi içermez.</li>
+                <li>Yalnızca uygulama geliştiricisi tarafından, hataları düzeltmek ve özellikleri geliştirmek için kullanılır.</li>
+                <li>Üçüncü taraf bir analiz aracı aracılığıyla işlenir ve bu araçların kendi gizlilik kurallarına tabidir.</li>
+            </ul>
+
+            <h2>Veri Paylaşımı ve Üçüncü Taraflar</h2>
+            <ul>
+                <li>Topladığımız hiçbir veri üçüncü taraflarla paylaşılmaz, satılmaz veya kiralanmaz.</li>
+                <li>Reklam, pazarlama veya başka amaçlarla veri kullanmıyoruz.</li>
+                <li>Yasal zorunluluklar (örneğin, mahkeme kararı) dışında verilerinizi kimseyle paylaşmayız.</li>
+            </ul>
+
+            <h2>Veri Güvenliği</h2>
+            <ul>
+                <li>Yerel verileriniz yalnızca cihazınızda saklanır ve uygulamayı silmeniz halinde tamamen kaldırılır.</li>
+                <li>Anonim istatistikler güvenli bir şekilde iletilir ve yetkisiz erişime karşı korunur.</li>
+            </ul>
+
+            <h2>Çocukların Gizliliği</h2>
+            <p>Uygulamamız 13 yaş altı çocuklara yönelik değildir. Bilerek çocuklardan veri toplamıyoruz.</p>
+
+            <h2>Değişiklikler</h2>
+            <p>Bu Gizlilik Politikası'nda değişiklik yaparsak, uygulamada veya bu sayfada güncellenmiş hali yayınlanır.</p>
+
+            <div class="contact">
+                <h3>İletişim</h3>
+                <p>Gizlilikle ilgili soru veya önerileriniz için:<br>
+                E-posta: <a href="mailto:v.tastemir@protonmail.com">v.tastemir@protonmail.com</a></p>
+                <p>Uygulamamızı kullandığınız için teşekkür ederiz!</p>
+            </div>
+        </div>
     </div>
 
     <script>
         let currentLang = 'en';
+        let currentApp = 'ehliyet';
 
         function toggleLanguage() {
-            const contentEn = document.getElementById('content-en');
-            const contentTr = document.getElementById('content-tr');
-            const title = document.getElementById('title');
-            const lastUpdated = document.getElementById('lastUpdated');
             const langBtn = document.getElementById('langBtn');
 
             if (currentLang === 'en') {
-                contentEn.style.display = 'none';
-                contentTr.style.display = 'block';
-                title.textContent = 'Ehliyet Mobil – Gizlilik Politikası';
-                lastUpdated.textContent = 'Son Güncelleme: 02 Aralık 2025';
-                langBtn.textContent = 'English';
                 currentLang = 'tr';
+                langBtn.textContent = 'English';
                 document.documentElement.lang = 'tr';
             } else {
-                contentEn.style.display = 'block';
-                contentTr.style.display = 'none';
-                title.textContent = 'Ehliyet Mobil – Privacy Policy';
-                lastUpdated.textContent = 'Last Updated: December 02, 2025';
-                langBtn.textContent = 'Türkçe';
                 currentLang = 'en';
+                langBtn.textContent = 'Türkçe';
                 document.documentElement.lang = 'en';
+            }
+
+            updateContent();
+        }
+
+        function selectApp(app) {
+            currentApp = app;
+            
+            // Update button states
+            const buttons = document.querySelectorAll('.app-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            updateContent();
+        }
+
+        function updateContent() {
+            // Hide all sections
+            const sections = document.querySelectorAll('.content-section');
+            sections.forEach(section => section.classList.remove('active'));
+
+            // Show the correct section
+            const sectionId = `${currentApp}-${currentLang}`;
+            document.getElementById(sectionId).classList.add('active');
+
+            // Update title
+            const title = document.getElementById('title');
+            if (currentLang === 'en') {
+                title.textContent = 'Privacy Policy';
+            } else {
+                title.textContent = 'Gizlilik Politikası';
             }
         }
     </script>
