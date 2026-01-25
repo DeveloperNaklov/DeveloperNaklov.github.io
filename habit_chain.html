@@ -30,36 +30,16 @@
             position: relative;
             z-index: 100;
             display: flex;
-            justify-content: center;
+            justify-content: flex-end;
             align-items: center;
             background: rgba(255, 255, 255, 0.02);
             backdrop-filter: blur(20px);
             border-bottom: 1px solid rgba(167, 139, 250, 0.2);
             box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            padding-right: 20px;
         }
 
-        .logo {
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            position: absolute;
-            left: 20px;
-            font-size: 24px;
-            font-weight: 700;
-        }
-
-        .logo img {
-            width: 50px;
-            height: 50px;
-            object-fit: contain;
-            filter: drop-shadow(0 4px 12px rgba(167, 139, 250, 0.3));
-        }
-
-        .logo span {
-            color: #a78bfa;
-        }
-
-        .language-toggle {
+.language-toggle {
             display: flex;
             gap: 8px;
             background: rgba(167, 139, 250, 0.1);
@@ -361,22 +341,6 @@
                 flex-direction: column !important;
             }
 
-            header {
-                flex-direction: column;
-                gap: 20px;
-            }
-
-            .logo {
-                position: static;
-                margin-bottom: 10px;
-                font-size: 18px;
-            }
-
-            .logo img {
-                width: 35px;
-                height: 35px;
-            }
-
             .hero {
                 padding: 80px 0 60px;
             }
@@ -430,10 +394,6 @@
 </head>
 <body>
     <header class="container">
-        <div class="logo">
-            <img src="logo.png" alt="Habit Chain Logo">
-            <span>HABIT</span><span class="highlight">CHAIN</span>
-        </div>
         <div class="language-toggle">
             <button class="lang-btn active" data-lang="en" onclick="changeLanguage('en')">English</button>
             <button class="lang-btn" data-lang="tr" onclick="changeLanguage('tr')">Türkçe</button>
