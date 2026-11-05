@@ -1,110 +1,45 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Terms &amp; Conditions – Ehliyet Mobil | Ehliyet Sınavı</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600;7..72,700&display=swap" rel="stylesheet">
+<!doctype html><html lang="en"><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><title>EhliyetMobil Terms &amp; Conditions</title><style>:root{box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}</style><style>:root{color-scheme:light dark;--md-bg:#fff;--md-text:rgba(0,0,0,.8);--md-muted:rgba(0,0,0,.6);--md-fill:rgba(0,0,0,.04);--md-fill-strong:rgba(0,0,0,.06);--md-rule:rgba(0,0,0,.1);--md-rule-strong:rgba(0,0,0,.16);--md-link:hsl(210 100% 45%)}@media (prefers-color-scheme:dark){:root:where(:not([data-theme="light"])){--md-bg:#0d0d0d;--md-text:rgba(255,255,255,.85);--md-muted:rgba(255,255,255,.6);--md-fill:rgba(255,255,255,.06);--md-fill-strong:rgba(255,255,255,.09);--md-rule:rgba(255,255,255,.14);--md-rule-strong:rgba(255,255,255,.22);--md-link:hsl(210 100% 72%)}}:root[data-theme="dark"]{color-scheme:dark;--md-bg:#0d0d0d;--md-text:rgba(255,255,255,.85);--md-muted:rgba(255,255,255,.6);--md-fill:rgba(255,255,255,.06);--md-fill-strong:rgba(255,255,255,.09);--md-rule:rgba(255,255,255,.14);--md-rule-strong:rgba(255,255,255,.22);--md-link:hsl(210 100% 72%)}:root[data-theme="light"]{color-scheme:light}@media print{:root,:root[data-theme="dark"]{color-scheme:light;--md-bg:#fff;--md-text:rgba(0,0,0,.8);--md-muted:rgba(0,0,0,.6);--md-fill:rgba(0,0,0,.04);--md-fill-strong:rgba(0,0,0,.06);--md-rule:rgba(0,0,0,.1);--md-rule-strong:rgba(0,0,0,.16);--md-link:hsl(210 100% 45%)}}body{background:var(--md-bg);color:var(--md-text);max-width:720px;margin:0 auto;padding:32px;display:flex;flex-direction:column;gap:10px;font:14px/1.55 -apple-system,BlinkMacSystemFont,'SF Pro','Segoe UI',sans-serif;overflow-wrap:break-word}body>:first-child{margin-top:0}h1,h2,h3,h4,h5,h6{margin:6px 0 0;line-height:1.25;font-weight:600;text-wrap:balance}h1{font-size:1.35em}h2{font-size:1.15em;color:var(--md-muted)}h3,h4,h5,h6{font-size:1em}p,ul,ol,blockquote,table,pre,hr{margin:0}strong{font-weight:600}a{color:var(--md-link);text-decoration:none}a:hover{text-decoration:underline}ul,ol{display:flex;flex-direction:column;gap:6px;padding-left:22px}ul{list-style:disc}ol{list-style:decimal}:is(li,td,th)>*+:is(p,ul,ol,blockquote){margin-top:6px}blockquote{display:flex;flex-direction:column;gap:10px;border-left:2px solid var(--md-rule);padding-left:10px;color:var(--md-muted)}:not(pre)>code{background:var(--md-fill);padding:1px 3px;border-radius:4px;font:.92em 'SF Mono',ui-monospace,Menlo,Consolas,monospace}a>code{background:none;color:inherit}pre{background:var(--md-fill);padding:10px 12px;border-radius:6px;overflow-x:auto;font:12px/1.5 'SF Mono',ui-monospace,Menlo,Consolas,monospace;margin-block:4px}pre code{background:none;padding:0;font:inherit}table{width:100%;border-collapse:separate;border-spacing:2px;font:inherit}th,td{padding:6px 8px;border-radius:3px;text-align:left;vertical-align:top}th{background:var(--md-fill-strong);font-weight:600}td{background:var(--md-fill)}:is(th,td) :not(pre)>code{background:transparent}hr{border:0;border-top:1px solid var(--md-rule-strong);margin-block:10px}img{max-width:100%;height:auto;border-radius:4px}</style>
 <style>
-:root{
-  color-scheme:dark;
-  --bg:#000;--fg:#fff;--body:#ececec;--muted:#9b9b9b;--rule:#2a2a2a;
-  box-sizing:border-box;
-  padding-top:env(safe-area-inset-top,0px);
-  padding-bottom:env(safe-area-inset-bottom,0px);
-}
-html{scroll-padding-top:calc(env(safe-area-inset-top,0px) + 16px);scroll-behavior:smooth}
-*,*::before,*::after{box-sizing:inherit}
-body{margin:0;background:var(--bg);color:var(--body);font-family:"Literata",Georgia,"Times New Roman",serif;font-size:1.0625rem;line-height:1.75}
-.wrap{max-width:44rem;margin:0 auto;padding:4rem 1.5rem 5rem}
-header{margin-bottom:3rem}
-h1{margin:0 0 .75rem;color:var(--fg);font-size:clamp(2.25rem,7vw,3.5rem);line-height:1.1;font-weight:700;letter-spacing:-.02em}
-.meta{margin:0;color:var(--muted);font-size:.95rem}
-nav{margin:2.5rem 0 0;padding:1.25rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
-nav ul{margin:0;padding:0;list-style:none;columns:2 14rem;column-gap:2rem;font-size:.95rem;line-height:2}
-nav a{color:var(--body);text-decoration:none}
-nav a:hover{color:var(--fg);text-decoration:underline}
-a{color:var(--fg);text-underline-offset:3px}
-a:focus-visible{outline:2px solid var(--fg);outline-offset:3px;border-radius:2px}
-section{margin-top:3rem}
-h2{margin:0 0 1rem;color:var(--fg);font-size:1.5rem;line-height:1.3;font-weight:600;letter-spacing:-.01em}
-p{margin:0 0 1.1rem}
-ul.items{margin:0 0 1.25rem;padding-left:1.25rem}
-ul.items li{margin-bottom:.4rem;padding-left:.25rem}
-ul.items li::marker{color:var(--muted)}
-strong{color:var(--fg);font-weight:600}
-.lead{font-size:1.15rem;color:var(--fg)}
-footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--rule);color:var(--muted);font-size:.95rem}
-@media (max-width:520px){.wrap{padding:2.5rem 1.25rem 4rem}body{font-size:1rem}}
+.lang-bar{display:flex;justify-content:flex-end;margin-bottom:4px}
+.lang-btn{cursor:pointer;padding:7px 16px;border-radius:8px;border:1px solid var(--md-rule-strong);background:var(--md-fill);color:var(--md-text);font:13px/1 -apple-system,BlinkMacSystemFont,'SF Pro','Segoe UI',sans-serif;font-weight:600}
+.lang-btn:hover{background:var(--md-fill-strong)}
+.lang-block{display:flex;flex-direction:column;gap:10px}
 </style>
-</head>
-<body>
-<div class="wrap">
-<header>
-  <h1>Terms &amp; Conditions</h1>
-  <p class="meta">Ehliyet Mobil | Ehliyet Sınavı. Effective as of 2026-11-05</p>
-  <nav aria-label="Sections">
-    <ul>
-      <li><a href="#license">License to use the Application</a></li>
-      <li><a href="#ip">Intellectual Property</a></li>
-      <li><a href="#termination">Termination</a></li>
-      <li><a href="#ugc">User-Generated Content and Acceptable Use</a></li>
-      <li><a href="#third-party">Third Party Services</a></li>
-      <li><a href="#liability">Limitation of Liability</a></li>
-      <li><a href="#indemnification">Indemnification</a></li>
-      <li><a href="#law">Governing Law and Jurisdiction</a></li>
-      <li><a href="#dsa">DSA Compliance</a></li>
-      <li><a href="#severability">Severability</a></li>
-      <li><a href="#agreement">Entire Agreement</a></li>
-      <li><a href="#changes">Changes to These Terms</a></li>
-      <li><a href="#contact">Contact Us</a></li>
-    </ul>
-  </nav>
-</header>
+</head><body>
+<div class="lang-bar"><button id="lang-toggle" class="lang-btn" onclick="toggleLang()">Türkçe</button></div>
 
-<main>
-<p class="lead">These terms and conditions apply to the Ehliyet Mobil | Ehliyet Sınavı app for mobile devices, together with any related services operated by ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI (collectively, the “Application”). ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI is hereby referred to as the “Service Provider”.</p>
+<div id="lang-en" class="lang-block">
+<h1>EhliyetMobil Terms &amp; Conditions</h1>
+<p><strong>Effective as of:</strong> November 5, 2026</p>
+<p>These terms and conditions apply to the Ehliyet Mobil | Ehliyet Sınavı app for mobile devices, together with any related services operated by ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI (collectively, the “Application”). ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI is hereby referred to as the “Service Provider”.</p>
 <p>By downloading or using the Application, you agree to these Terms and Conditions. You should read them carefully before using the Application.</p>
-
-<section id="license">
 <h2>License to use the Application</h2>
 <p>Subject to your compliance with these Terms, the Service Provider grants you a limited, non-exclusive, non-transferable, revocable license to install and use the Application on a mobile device for personal or internal business purposes. You may not reproduce, distribute, modify, create derivative works from, reverse engineer, decompile, or disassemble the Application, except as and only to the extent that such activity is expressly permitted by applicable law.</p>
-</section>
-
-<section id="ip">
 <h2>Intellectual Property</h2>
 <p>The Service Provider retains all intellectual property rights in the Application, including its code, design, trademarks, service marks, trade names, logos, and branding (the “IP”). Nothing in these Terms grants you any license or right to use the Service Provider’s trademarks, logos, or branding for any purpose. You agree not to remove, alter, or obscure any copyright, trademark, or other proprietary notices displayed in or on the Application.</p>
-</section>
-
-<section id="termination">
 <h2>Termination</h2>
 <p>The Service Provider may suspend your access to the Application or services if you materially breach these Terms. The Service Provider will provide you with written notice of the breach and, where the breach is capable of cure, you will have 14 days from receipt of notice to remedy the breach. If you fail to cure the breach within that period, the Service Provider may terminate your access.</p>
 <p>The Service Provider may suspend or terminate your access immediately without notice if you violate applicable law, infringe intellectual property rights, or engage in activity that could cause harm to other users or the Service Provider.</p>
 <p>Upon termination, your right to use the Application will end and you must delete all copies from your devices.</p>
 <p>By accessing and using this Application, you represent that you are legally permitted to use it in your jurisdiction. You must be at least 16 years of age (the age of digital consent in your jurisdiction) to use the Application. If you are below 16, a parent or legal guardian must review and accept these Terms on your behalf.</p>
 <p>Unauthorized copying, modification of the Application, any part of the Application, or the Service Provider’s trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.</p>
-</section>
-
-<section id="ugc">
 <h2>User-Generated Content and Acceptable Use</h2>
 <p>If this Application allows users to post, share, or upload content, you agree not to post content that:</p>
-<ul class="items">
-  <li>Is illegal or violates third-party intellectual property rights (copyright, trademark, patents)</li>
-  <li>Is abusive, threatening, harassing, defamatory, or hate speech</li>
-  <li>Contains discrimination or incitement to violence or illegal activity</li>
-  <li>Is spam, phishing, or contains malware</li>
-  <li>Violates the privacy or personal data rights of others</li>
-  <li>Is misleading, false, or deceptive</li>
-  <li>Contains explicit violence or sexual content (unless age-gated appropriately)</li>
+<ul>
+<li>Is illegal or violates third-party intellectual property rights (copyright, trademark, patents)</li>
+<li>Is abusive, threatening, harassing, defamatory, or hate speech</li>
+<li>Contains discrimination or incitement to violence or illegal activity</li>
+<li>Is spam, phishing, or contains malware</li>
+<li>Violates the privacy or personal data rights of others</li>
+<li>Is misleading, false, or deceptive</li>
+<li>Contains explicit violence or sexual content (unless age-gated appropriately)</li>
 </ul>
 <p>The Service Provider reserves the right to:</p>
-<ul class="items">
-  <li>Remove or disable access to content that violates these guidelines</li>
-  <li>Suspend or terminate accounts of users who repeatedly violate these guidelines</li>
-  <li>Cooperate with law enforcement if illegal content is reported</li>
-  <li>Moderate, filter, or hide content that violates these Terms, applicable law, or the guidelines set out above</li>
+<ul>
+<li>Remove or disable access to content that violates these guidelines</li>
+<li>Suspend or terminate accounts of users who repeatedly violate these guidelines</li>
+<li>Cooperate with law enforcement if illegal content is reported</li>
+<li>Moderate, filter, or hide content that violates these Terms, applicable law, or the guidelines set out above</li>
 </ul>
 <p>Content submitted through the Application may be visible to other users or to the public, depending on how the Application functions.</p>
 <p>If you believe content violates these Terms, infringes your rights, or is unlawful, you may report it to the Service Provider at <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a>. The report should include enough information for the Service Provider to identify the content, evaluate the complaint, and contact you if follow-up is required.</p>
@@ -115,50 +50,35 @@ footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--rule);color
 <p>The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.</p>
 <p>The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your mobile device and access to the Application.</p>
 <p>The Service Provider strongly advises against jailbreaking or rooting your mobile device, which involves removing software restrictions and limitations imposed by the official operating system of your mobile device. Such actions could expose your mobile device to malware, viruses, malicious programs, compromise your mobile device’s security features, and may result in the Application not functioning correctly or at all.</p>
-</section>
-
-<section id="third-party">
 <h2>Third Party Services</h2>
-<ul class="items">
-  <li><a href="https://policies.google.com/terms" rel="noopener" target="_blank">Google Play Services</a></li>
-  <li><a href="https://developers.google.com/admob/terms" rel="noopener" target="_blank">AdMob</a></li>
-  <li><a href="https://www.google.com/analytics/terms/" rel="noopener" target="_blank">Google Analytics for Firebase</a></li>
-  <li><a href="https://firebase.google.com/terms/crashlytics" rel="noopener" target="_blank">Firebase Crashlytics</a></li>
-  <li><a href="https://www.revenuecat.com/terms" rel="noopener" target="_blank">RevenueCat</a></li>
+<ul>
+<li><a href="https://policies.google.com/terms">Google Play Services</a></li>
+<li><a href="https://developers.google.com/admob/terms">AdMob</a></li>
+<li><a href="https://www.google.com/analytics/terms/">Google Analytics for Firebase</a></li>
+<li><a href="https://firebase.google.com/terms/crashlytics">Firebase Crashlytics</a></li>
+<li><a href="https://www.revenuecat.com/terms">RevenueCat</a></li>
 </ul>
 <p>Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.</p>
 <p>If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider’s agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.</p>
 <p>Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.</p>
 <p>Nothing in these Terms shall limit any rights you have under applicable consumer protection laws that cannot be lawfully excluded.</p>
-</section>
-
-<section id="liability">
 <h2>Limitation of Liability</h2>
 <p>To the fullest extent permitted by law, the Service Provider shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including but not limited to lost profits, data loss, or business interruption, even if advised of the possibility of such damages.</p>
 <p>However, the Service Provider retains full liability for:</p>
-<ul class="items">
-  <li>Death or personal injury caused by negligence</li>
-  <li>Fraud or fraudulent misrepresentation</li>
-  <li>Any other liability that cannot be excluded or limited under applicable law</li>
+<ul>
+<li>Death or personal injury caused by negligence</li>
+<li>Fraud or fraudulent misrepresentation</li>
+<li>Any other liability that cannot be excluded or limited under applicable law</li>
 </ul>
 <p>To the fullest extent permitted by law, the total liability of the Service Provider for any claim shall not exceed the amount paid by you to the Service Provider for the Application in the 12 months preceding the claim, or the minimum amount that must be paid under applicable law, whichever is greater. If the Application is provided free of charge, this means the Service Provider’s liability is limited to the minimum amount permitted by applicable law.</p>
 <p>The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on third-party information provided through this Application, or for inaccuracies in content provided by third parties.</p>
-</section>
-
-<section id="indemnification">
 <h2>Indemnification</h2>
 <p>To the fullest extent permitted by law, you agree to indemnify and hold harmless the Service Provider, its affiliates, officers, directors, employees and agents from and against any claims, liabilities, damages, losses and expenses, including reasonable legal fees, arising out of or directly related to your breach of these Terms or your intentional misuse of the Application, including User-Generated Content you submit in violation of these Terms.</p>
 <p>This indemnification does not apply to claims arising from the Service Provider’s own negligence, breach of these Terms, or violation of applicable law. In jurisdictions where consumer indemnification is restricted by law, this clause shall be limited to the maximum extent permitted.</p>
 <p>The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. You should accept updates when offered; if you choose not to, the Service Provider may cease to support earlier versions and the Application may not function properly. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.</p>
-</section>
-
-<section id="law">
 <h2>Governing Law and Jurisdiction</h2>
 <p>These Terms and Conditions are governed by the laws of the jurisdiction in which the Service Provider is established, excluding conflict of law rules, except to the extent mandatory consumer protection laws provide otherwise.</p>
 <p>Any dispute arising out of or relating to these Terms will be brought before the courts that have jurisdiction under applicable law. Nothing in this clause limits any rights you may have to bring a claim in a court that is competent under mandatory law.</p>
-</section>
-
-<section id="dsa">
 <h2>DSA Compliance (Digital Services Act)</h2>
 <p>If the Application is an intermediary service as defined under the Digital Services Act (Regulation (EU) 2022/2065, “DSA”), the following provisions apply in addition to the terms above.</p>
 <p><strong>Point of Contact:</strong> The Service Provider maintains a single point of contact for direct communication with EU authorities and recipients of the service, reachable at <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a>. Where the Service Provider is established outside the European Union, a legal representative in the EU has been designated in accordance with Article 13 of the DSA.</p>
@@ -167,32 +87,125 @@ footer{margin-top:4rem;padding-top:1.5rem;border-top:1px solid var(--rule);color
 <p><strong>Out-of-Court Dispute Settlement:</strong> Disputes regarding content moderation decisions, including decisions to restrict content or suspend accounts, may be submitted to an out-of-court dispute settlement body certified in accordance with Article 21 of the DSA. The Service Provider will engage with such bodies in good faith. Use of out-of-court dispute settlement does not affect your right to seek judicial remedy under applicable law.</p>
 <p><strong>Transparency Reporting:</strong> The Service Provider publishes periodic transparency reports covering content moderation activities, including the volume of notices received, actions taken, and automated means used, in accordance with Article 24 of the DSA. Reports are made available upon request at <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a>.</p>
 <p>These DSA provisions apply to the extent that the Application qualifies as an intermediary service under the DSA and does not replace or limit any rights or obligations under applicable consumer protection or data protection law.</p>
-</section>
-
-<section id="severability">
 <h2>Severability</h2>
 <p>If any provision of these Terms and Conditions is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction, such provision shall be modified to the minimum extent necessary to make it valid and enforceable, and the remaining provisions of these Terms shall remain in full force and effect.</p>
-</section>
-
-<section id="agreement">
 <h2>Entire Agreement</h2>
 <p>These Terms and Conditions, together with the Privacy Policy, constitute the entire agreement between you and the Service Provider concerning your use of the Application, superseding any prior agreements or understandings.</p>
-</section>
-
-<section id="changes">
 <h2>Changes to These Terms and Conditions</h2>
 <p>The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.</p>
 <p>Previous versions of these Terms and Conditions will be maintained and made available upon request by contacting the Service Provider at <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a>.</p>
 <p>These terms and conditions are effective as of 2026-11-05</p>
-</section>
-
-<section id="contact">
 <h2>Contact Us</h2>
 <p>If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a>.</p>
-</section>
-</main>
-
-<footer>ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI</footer>
 </div>
-</body>
-</html>
+
+<div id="lang-tr" class="lang-block" style="display:none">
+<h1>EhliyetMobil Kullanım Koşulları</h1>
+<p><strong>Yürürlük Tarihi:</strong> 5 Kasım 2026</p>
+<p>Bu kullanım koşulları, mobil cihazlar için Ehliyet Mobil | Ehliyet Sınavı uygulaması ve ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI tarafından işletilen ilgili tüm hizmetler (topluca “Uygulama”) için geçerlidir. ALI TASTEMIR VODEGEN BILGI TEKNOLOJILERI bundan sonra “Hizmet Sağlayıcı” olarak anılacaktır.</p>
+<p>Uygulamayı indirerek veya kullanarak bu Kullanım Koşulları’nı kabul etmiş olursunuz. Uygulamayı kullanmadan önce koşulları dikkatle okumalısınız.</p>
+<h2>Uygulamayı Kullanma Lisansı</h2>
+<p>Bu Koşullar’a uymanız şartıyla Hizmet Sağlayıcı, Uygulamayı kişisel veya kurum içi ticari amaçlarla bir mobil cihaza yüklemeniz ve kullanmanız için size sınırlı, münhasır olmayan, devredilemez ve geri alınabilir bir lisans verir. Geçerli yasaların açıkça izin verdiği ölçü dışında Uygulamayı çoğaltamaz, dağıtamaz, değiştiremez, türev eserler oluşturamaz, tersine mühendislik yapamaz, kaynak koduna dönüştüremez veya parçalarına ayıramazsınız.</p>
+<h2>Fikri Mülkiyet</h2>
+<p>Hizmet Sağlayıcı; kodu, tasarımı, ticari markaları, hizmet markaları, ticari unvanları, logoları ve marka kimliği dahil olmak üzere Uygulamadaki tüm fikri mülkiyet haklarını (“Fikri Mülkiyet”) saklı tutar. Bu Koşullar’daki hiçbir hüküm, Hizmet Sağlayıcı’nın ticari markalarını, logolarını veya marka kimliğini herhangi bir amaçla kullanmanız için size lisans veya hak vermez. Uygulamada görüntülenen telif hakkı, ticari marka veya diğer mülkiyet bildirimlerini kaldırmamayı, değiştirmemeyi veya gizlememeyi kabul edersiniz.</p>
+<h2>Fesih</h2>
+<p>Bu Koşullar’ı esaslı şekilde ihlal etmeniz halinde Hizmet Sağlayıcı, Uygulamaya veya hizmetlere erişiminizi askıya alabilir. Hizmet Sağlayıcı size ihlali yazılı olarak bildirecek ve ihlalin giderilebilir olduğu durumlarda, bildirimin tebliğinden itibaren ihlali gidermeniz için 14 gün süre tanıyacaktır. Bu süre içinde ihlali gidermezseniz Hizmet Sağlayıcı erişiminizi sonlandırabilir.</p>
+<p>Geçerli yasaları ihlal etmeniz, fikri mülkiyet haklarını çiğnemeniz veya diğer kullanıcılara ya da Hizmet Sağlayıcı’ya zarar verebilecek faaliyetlerde bulunmanız halinde Hizmet Sağlayıcı, erişiminizi önceden bildirimde bulunmaksızın derhal askıya alabilir veya sonlandırabilir.</p>
+<p>Fesih halinde Uygulamayı kullanma hakkınız sona erer ve tüm kopyaları cihazlarınızdan silmeniz gerekir.</p>
+<p>Bu Uygulamaya erişerek ve kullanarak, bulunduğunuz yargı bölgesinde Uygulamayı kullanmanızın yasal olarak mümkün olduğunu beyan edersiniz. Uygulamayı kullanabilmek için en az 16 yaşında olmanız gerekir (bulunduğunuz yargı bölgesindeki dijital rıza yaşı). 16 yaşın altındaysanız, bu Koşullar’ı sizin adınıza bir ebeveyn veya yasal vasinin incelemesi ve kabul etmesi gerekir.</p>
+<p>Uygulamanın, herhangi bir bölümünün veya Hizmet Sağlayıcı’nın ticari markalarının izinsiz kopyalanması ve değiştirilmesi kesinlikle yasaktır. Uygulamanın kaynak kodunu çıkarmaya, Uygulamayı başka dillere çevirmeye veya türev sürümler oluşturmaya yönelik her türlü girişim yasaktır. Uygulamayla ilgili tüm ticari markalar, telif hakları, veri tabanı hakları ve diğer fikri mülkiyet hakları Hizmet Sağlayıcı’nın mülkiyetinde kalır.</p>
+<h2>Kullanıcı Tarafından Oluşturulan İçerik ve Kabul Edilebilir Kullanım</h2>
+<p>Bu Uygulama kullanıcıların içerik yayınlamasına, paylaşmasına veya yüklemesine izin veriyorsa, aşağıdaki nitelikte içerik yayınlamamayı kabul edersiniz:</p>
+<ul>
+<li>Yasa dışı olan veya üçüncü tarafların fikri mülkiyet haklarını (telif hakkı, ticari marka, patent) ihlal eden</li>
+<li>Hakaret, tehdit, taciz, iftira veya nefret söylemi içeren</li>
+<li>Ayrımcılık ya da şiddete veya yasa dışı faaliyetlere teşvik içeren</li>
+<li>Spam, kimlik avı (phishing) veya kötü amaçlı yazılım içeren</li>
+<li>Başkalarının gizlilik veya kişisel veri haklarını ihlal eden</li>
+<li>Yanıltıcı, yanlış veya aldatıcı olan</li>
+<li>Açık şiddet veya cinsel içerik barındıran (uygun şekilde yaş sınırlaması getirilmediği sürece)</li>
+</ul>
+<p>Hizmet Sağlayıcı aşağıdaki haklarını saklı tutar:</p>
+<ul>
+<li>Bu kurallara aykırı içeriği kaldırmak veya erişimi devre dışı bırakmak</li>
+<li>Bu kuralları tekrar tekrar ihlal eden kullanıcıların hesaplarını askıya almak veya sonlandırmak</li>
+<li>Yasa dışı içerik bildirilmesi halinde kolluk kuvvetleriyle iş birliği yapmak</li>
+<li>Bu Koşullar’a, geçerli yasalara veya yukarıda belirtilen kurallara aykırı içeriği denetlemek, filtrelemek veya gizlemek</li>
+</ul>
+<p>Uygulama üzerinden gönderilen içerik, Uygulamanın işleyişine bağlı olarak diğer kullanıcılar veya kamuoyu tarafından görülebilir.</p>
+<p>Bir içeriğin bu Koşullar’ı ihlal ettiğini, haklarınızı çiğnediğini veya yasa dışı olduğunu düşünüyorsanız, bunu Hizmet Sağlayıcı’ya <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden bildirebilirsiniz. Bildirim, Hizmet Sağlayıcı’nın içeriği tespit edebilmesi, şikâyeti değerlendirebilmesi ve gerekirse sizinle iletişime geçebilmesi için yeterli bilgi içermelidir.</p>
+<p>Uygulama bu özellikleri sunuyorsa, içerikleri bildirebilir, diğer kullanıcıları engelleyebilir veya bildirimleri doğrudan Uygulamanın arayüzünden sessize alabilirsiniz. Hizmet Sağlayıcı, uygulama içi bildirimleri bu Koşullar’da açıklanan ölçütlerle inceler.</p>
+<p>Hizmet Sağlayıcı bildirilen içeriği inceleyebilir, gerektiğinde ek bilgi isteyebilir, içeriği kaldırabilir veya erişimi kısıtlayabilir ve uygun görülen durumlarda sorumlu hesap hakkında işlem yapabilir. Denetim kararlarından etkilenen kullanıcılar, ek inceleme talep etmek için Hizmet Sağlayıcı’ya <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden ulaşabilir. Hizmet Sağlayıcı itirazlara makul bir süre içinde yanıt verecek ve geçerli yasalar saklı kalmak kaydıyla, onaylanan denetim kararlarının gerekçelerini sunacaktır.</p>
+<p>Kullanıcı Tarafından Oluşturulan İçerik göndererek Hizmet Sağlayıcı’ya, bu içeriği Uygulama ve Hizmet Sağlayıcı’nın işi kapsamında kullanma, çoğaltma, dağıtma, türev eserler hazırlama, görüntüleme ve icra etme konusunda münhasır olmayan, dünya çapında ve telif ücretsiz bir lisans vermiş olursunuz. Bu lisans, Hizmet Sağlayıcı’ya içeriğinizi Uygulamadan bağımsız olarak üçüncü taraflara satma veya alt lisans verme hakkı tanımaz. Yayınladığınız içeriğin tüm haklarına sahip olduğunuzu veya bu haklar üzerinde yetkiniz bulunduğunu ve içeriğin kullanımının bu Koşullar’ı veya geçerli yasaları ihlal etmediğini beyan ve taahhüt edersiniz.</p>
+<p>İçeriğiniz kişisel veri içerebilir. Kullanıcı Tarafından Oluşturulan İçerikle ilgili kişisel verilerin işlenmesi Gizlilik Politikası’na tabidir. Başkalarının kişisel verilerini onların rızası olmadan paylaşmayınız.</p>
+<p>Hizmet Sağlayıcı, Uygulamanın mümkün olduğunca faydalı ve verimli olmasını sağlamaya kararlıdır. Bu nedenle Uygulamayı değiştirme veya hizmetleri için herhangi bir zamanda ve herhangi bir sebeple ücret talep etme hakkını saklı tutar. Hizmet Sağlayıcı, Uygulama veya hizmetleri için alınacak her türlü ücretin size açıkça bildirileceğini taahhüt eder.</p>
+<p>Uygulama, Hizmeti sunabilmek için Hizmet Sağlayıcı’ya sağladığınız kişisel verileri saklar ve işler. Mobil cihazınızın ve Uygulamaya erişiminizin güvenliğini sağlamak sizin sorumluluğunuzdadır.</p>
+<p>Hizmet Sağlayıcı, mobil cihazınızın resmi işletim sistemi tarafından getirilen yazılım kısıtlamalarının ve sınırlamalarının kaldırılması anlamına gelen jailbreak veya root işlemlerinin yapılmamasını önemle tavsiye eder. Bu tür işlemler cihazınızı kötü amaçlı yazılımlara, virüslere ve zararlı programlara maruz bırakabilir, cihazınızın güvenlik özelliklerini zayıflatabilir ve Uygulamanın düzgün çalışmamasına veya hiç çalışmamasına yol açabilir.</p>
+<h2>Üçüncü Taraf Hizmetler</h2>
+<ul>
+<li><a href="https://policies.google.com/terms">Google Play Services</a></li>
+<li><a href="https://developers.google.com/admob/terms">AdMob</a></li>
+<li><a href="https://www.google.com/analytics/terms/">Google Analytics for Firebase</a></li>
+<li><a href="https://firebase.google.com/terms/crashlytics">Firebase Crashlytics</a></li>
+<li><a href="https://www.revenuecat.com/terms">RevenueCat</a></li>
+</ul>
+<p>Hizmet Sağlayıcı’nın bazı hususlarda sorumluluk üstlenmediğini lütfen unutmayın. Uygulamanın bazı işlevleri Wi-Fi veya mobil operatörünüz tarafından sağlanan aktif bir internet bağlantısı gerektirir. Wi-Fi erişiminin bulunmaması veya veri kotanızın tükenmesi nedeniyle Uygulamanın tam kapasiteyle çalışmaması halinde Hizmet Sağlayıcı sorumlu tutulamaz.</p>
+<p>Uygulamayı Wi-Fi kapsama alanı dışında kullanıyorsanız, mobil operatörünüzün sözleşme koşullarının geçerli olmaya devam ettiğini lütfen unutmayın. Bu nedenle Uygulamaya bağlanırken veri kullanımı için mobil operatörünüzden veya diğer üçüncü taraflardan ücret alınabilir. Uygulamayı kullanarak, ülkenizin (bölgenizin) dışında veri dolaşımını kapatmadan kullanmanız halinde ortaya çıkabilecek dolaşım ücretleri dahil bu tür tüm ücretlerin sorumluluğunu kabul edersiniz. Uygulamayı kullandığınız cihazın faturasını ödeyen kişi siz değilseniz, fatura sahibinden izin aldığınız varsayılır.</p>
+<p>Benzer şekilde Hizmet Sağlayıcı, Uygulamayı kullanımınızla ilgili her zaman sorumluluk üstlenemez. Örneğin cihazınızın şarjının yeterli olmasını sağlamak sizin sorumluluğunuzdadır. Cihazınızın bataryası biterse ve Hizmete erişemezseniz Hizmet Sağlayıcı sorumlu tutulamaz.</p>
+<p>Bu Koşullar’daki hiçbir hüküm, yasal olarak hariç tutulamayacak tüketici koruma mevzuatından doğan haklarınızı sınırlamaz.</p>
+<h2>Sorumluluğun Sınırlandırılması</h2>
+<p>Yasaların izin verdiği azami ölçüde Hizmet Sağlayıcı; bu tür zararların olasılığı kendisine bildirilmiş olsa bile, kâr kaybı, veri kaybı veya iş kesintisi dahil ancak bunlarla sınırlı olmamak üzere hiçbir dolaylı, arızi, özel, sonuç olarak ortaya çıkan veya cezai zarardan sorumlu olmayacaktır.</p>
+<p>Ancak Hizmet Sağlayıcı aşağıdakiler bakımından tam sorumluluğunu korur:</p>
+<ul>
+<li>İhmal sonucu ölüm veya kişisel yaralanma</li>
+<li>Hile veya hileli yanlış beyan</li>
+<li>Geçerli yasalar uyarınca hariç tutulamayan veya sınırlandırılamayan diğer her türlü sorumluluk</li>
+</ul>
+<p>Yasaların izin verdiği azami ölçüde, Hizmet Sağlayıcı’nın herhangi bir talep bakımından toplam sorumluluğu, talepten önceki 12 ayda Uygulama için Hizmet Sağlayıcı’ya ödediğiniz tutarı veya geçerli yasalar uyarınca ödenmesi gereken asgari tutarı (hangisi daha yüksekse) aşamaz. Uygulama ücretsiz olarak sunuluyorsa, bu durum Hizmet Sağlayıcı’nın sorumluluğunun geçerli yasaların izin verdiği asgari tutarla sınırlı olduğu anlamına gelir.</p>
+<p>Hizmet Sağlayıcı, bu Uygulama aracılığıyla sunulan üçüncü taraf bilgilerine tamamen güvenmeniz sonucunda uğradığınız doğrudan veya dolaylı hiçbir kayıptan ya da üçüncü taraflarca sağlanan içeriklerdeki yanlışlıklardan sorumlu değildir.</p>
+<h2>Tazminat</h2>
+<p>Yasaların izin verdiği azami ölçüde, bu Koşullar’ı ihlal etmenizden veya Uygulamayı kasıtlı olarak kötüye kullanmanızdan (bu Koşullar’a aykırı şekilde gönderdiğiniz Kullanıcı Tarafından Oluşturulan İçerik dahil) kaynaklanan veya doğrudan bunlarla ilgili her türlü talep, yükümlülük, zarar, kayıp ve masraf (makul hukuki masraflar dahil) bakımından Hizmet Sağlayıcı’yı, iştiraklerini, yöneticilerini, çalışanlarını ve temsilcilerini tazmin etmeyi ve zarar görmelerini önlemeyi kabul edersiniz.</p>
+<p>Bu tazminat yükümlülüğü, Hizmet Sağlayıcı’nın kendi ihmalinden, bu Koşullar’ı ihlalinden veya geçerli yasaları ihlalinden doğan talepleri kapsamaz. Tüketici tazminatının yasayla kısıtlandığı yargı bölgelerinde bu hüküm, izin verilen azami ölçüyle sınırlı olacaktır.</p>
+<p>Hizmet Sağlayıcı Uygulamayı bir noktada güncellemek isteyebilir. Uygulama şu anda işletim sistemi gereksinimlerine uygun olarak sunulmaktadır (ve Hizmet Sağlayıcı’nın erişilebilirliği genişletmeye karar verdiği ek sistemler için de) ve bu gereksinimler değişebilir; Uygulamayı kullanmaya devam etmek istiyorsanız güncellemeleri indirmeniz gerekir. Hizmet Sağlayıcı, Uygulamayı her zaman sizin için geçerli kalacak ve/veya cihazınızda yüklü işletim sistemi sürümüyle uyumlu olacak şekilde güncelleyeceğini garanti etmez. Güncellemeler sunulduğunda kabul etmelisiniz; kabul etmemeniz halinde Hizmet Sağlayıcı eski sürümler için desteği sonlandırabilir ve Uygulama düzgün çalışmayabilir. Hizmet Sağlayıcı ayrıca Uygulamayı sunmayı bırakmak isteyebilir ve kullanımını size fesih bildirimi yapmaksızın herhangi bir zamanda sonlandırabilir. Aksi size bildirilmedikçe, herhangi bir fesih halinde (a) bu koşullar kapsamında size verilen hak ve lisanslar sona erer; (b) Uygulamayı kullanmayı bırakmanız ve (gerekirse) cihazınızdan silmeniz gerekir.</p>
+<h2>Uygulanacak Hukuk ve Yetki</h2>
+<p>Bu Kullanım Koşulları, zorunlu tüketici koruma mevzuatının aksini öngördüğü haller saklı kalmak kaydıyla, kanunlar ihtilafı kuralları hariç olmak üzere, Hizmet Sağlayıcı’nın kurulu olduğu yargı bölgesinin hukukuna tabidir.</p>
+<p>Bu Koşullar’dan doğan veya bunlarla ilgili her türlü uyuşmazlık, geçerli yasalar uyarınca yetkili olan mahkemelerde görülecektir. Bu madde, zorunlu hukuk uyarınca yetkili bir mahkemede talepte bulunma haklarınızı sınırlamaz.</p>
+<h2>DSA Uyumluluğu (Dijital Hizmetler Yasası)</h2>
+<p>Uygulama, Dijital Hizmetler Yasası (Avrupa Birliği 2022/2065 sayılı Tüzük, “DSA”) kapsamında bir aracı hizmet ise, yukarıdaki koşullara ek olarak aşağıdaki hükümler uygulanır.</p>
+<p><strong>İletişim Noktası:</strong> Hizmet Sağlayıcı, AB makamları ve hizmet alıcılarıyla doğrudan iletişim için <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden ulaşılabilen tek bir iletişim noktası bulundurur. Hizmet Sağlayıcı’nın Avrupa Birliği dışında kurulu olduğu durumlarda, DSA’nın 13. maddesi uyarınca AB’de bir yasal temsilci atanmıştır.</p>
+<p><strong>İçerik Denetimi ve Gerekçe Bildirimi:</strong> Hizmet Sağlayıcı içeriğe erişimi kısıtladığında, bir hesabı askıya aldığında veya sonlandırdığında ya da Uygulamanın özelliklerinin kullanılabilirliğini başka şekilde sınırladığında, etkilenen kullanıcıya açık ve özel bir gerekçe bildirimi sunulacaktır. Bildirim, DSA’nın 17. maddesi uyarınca kısıtlamanın niteliğini, kararın yasal veya sözleşmesel dayanağını ve mevcut başvuru mekanizmalarına ilişkin bilgileri içerecektir.</p>
+<p><strong>Bildirim ve Eylem:</strong> Kullanıcılar ve üçüncü taraflar, bu Koşullar’da verilen iletişim bilgileri aracılığıyla yasa dışı olduğu iddia edilen içeriklere ilişkin bildirim gönderebilir. Hizmet Sağlayıcı bildirimleri derhal, özenle ve koşulların insan incelemesi gerektirdiği durumlarda otomatik karar verme olmaksızın işleyecektir. Bildirimlerin alındığı elektronik olarak teyit edilecek ve karar, DSA’nın 16. maddesi uyarınca gereksiz gecikme olmaksızın bildirilecektir.</p>
+<p><strong>Mahkeme Dışı Uyuşmazlık Çözümü:</strong> İçerik denetimi kararlarına (içeriği kısıtlama veya hesapları askıya alma kararları dahil) ilişkin uyuşmazlıklar, DSA’nın 21. maddesi uyarınca sertifikalandırılmış bir mahkeme dışı uyuşmazlık çözüm kuruluşuna sunulabilir. Hizmet Sağlayıcı bu kuruluşlarla iyi niyetle iş birliği yapacaktır. Mahkeme dışı uyuşmazlık çözümüne başvurmak, geçerli yasalar uyarınca yargı yoluna başvurma hakkınızı etkilemez.</p>
+<p><strong>Şeffaflık Raporlaması:</strong> Hizmet Sağlayıcı, DSA’nın 24. maddesi uyarınca; alınan bildirimlerin sayısı, gerçekleştirilen işlemler ve kullanılan otomatik araçlar dahil içerik denetimi faaliyetlerini kapsayan dönemsel şeffaflık raporları yayımlar. Raporlar talep üzerine <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden sunulur.</p>
+<p>Bu DSA hükümleri, Uygulamanın DSA kapsamında aracı hizmet niteliği taşıması ölçüsünde uygulanır; geçerli tüketici koruma veya veri koruma mevzuatından doğan hak ve yükümlülüklerin yerine geçmez ve bunları sınırlamaz.</p>
+<h2>Bölünebilirlik</h2>
+<p>Bu Kullanım Koşulları’nın herhangi bir hükmü yetkili bir mahkeme tarafından geçersiz, yasa dışı veya uygulanamaz bulunursa, bu hüküm geçerli ve uygulanabilir hale getirmek için gereken asgari ölçüde değiştirilecek ve bu Koşullar’ın kalan hükümleri tam olarak yürürlükte kalmaya devam edecektir.</p>
+<h2>Tam Anlaşma</h2>
+<p>Bu Kullanım Koşulları, Gizlilik Politikası ile birlikte, Uygulamayı kullanımınıza ilişkin olarak sizinle Hizmet Sağlayıcı arasındaki tüm anlaşmayı oluşturur ve önceki tüm anlaşma ve mutabakatların yerine geçer.</p>
+<h2>Bu Kullanım Koşulları’ndaki Değişiklikler</h2>
+<p>Hizmet Sağlayıcı Kullanım Koşulları’nı zaman zaman güncelleyebilir. Bu nedenle değişiklikler için bu sayfayı düzenli olarak incelemeniz önerilir. Hizmet Sağlayıcı, yeni Kullanım Koşulları’nı bu sayfada yayımlayarak değişiklikleri size bildirecektir.</p>
+<p>Bu Kullanım Koşulları’nın önceki sürümleri saklanacak ve Hizmet Sağlayıcı ile <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden iletişime geçilmesi halinde talep üzerine sunulacaktır.</p>
+<p>Bu kullanım koşulları 2026-11-05 tarihinden itibaren yürürlüktedir.</p>
+<h2>Bize Ulaşın</h2>
+<p>Kullanım Koşulları hakkında herhangi bir sorunuz veya öneriniz varsa, lütfen Hizmet Sağlayıcı ile <a href="mailto:destek@vode.gen.tr">destek@vode.gen.tr</a> adresinden iletişime geçmekten çekinmeyin.</p>
+</div>
+
+<script>
+function toggleLang(){
+  var en = document.getElementById('lang-en');
+  var tr = document.getElementById('lang-tr');
+  var btn = document.getElementById('lang-toggle');
+  if (tr.style.display === 'none') {
+    en.style.display = 'none';
+    tr.style.display = '';
+    btn.textContent = 'English';
+    document.documentElement.lang = 'tr';
+  } else {
+    tr.style.display = 'none';
+    en.style.display = '';
+    btn.textContent = 'Türkçe';
+    document.documentElement.lang = 'en';
+  }
+}
+</script>
+</body></html>
